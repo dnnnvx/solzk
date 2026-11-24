@@ -20,6 +20,6 @@
     "solc": "^0.8.10"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^4.3.3"
+    "@openzeppelin/contracts": "^4.9.6"
   }
 }
